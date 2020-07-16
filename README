@@ -1,0 +1,19 @@
+[RFC 4226] HOTP Algorithm Implementation for BlackBerry 10 (QNX 6)
+
+HOTP is HMAC-Based One-Time Password generation using a moving factor. 
+Uses BlackBerry Cryptographic Kernel version 5.6 (SB-GSE-56)
+
+TODO
+====
+- Get shared secret from HOTP validator (server)
+- Whip up a beautiful UI
+- TOTP (Possibly, if I am not bored by then)
+
+Change Logs
+===========
+v1.0
+- Basic HOTP generation algorithm
+
+--
+Jaseem V V
+Monday 04 September 2017

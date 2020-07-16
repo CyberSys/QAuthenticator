@@ -1,0 +1,4 @@
+# Ignore bin
+arm
+translations/Authenticator.qm
+
