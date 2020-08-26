@@ -5,7 +5,6 @@
  *
  * Created on: 03-Sep-2017
  * Author: Jaseem V V
- * Website: https://www.qlambda.com
  */
 
 #include "hotp.h"
